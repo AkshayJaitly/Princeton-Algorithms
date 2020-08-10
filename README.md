@@ -6,5 +6,5 @@ Assignment 1: 100% for percolation
 
 Assignment 2: 100% 
 
-
+Assignment 3: 100%
 
